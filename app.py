@@ -198,6 +198,6 @@ async def on_audio_end(elements: list[Element]):
     await main(message=msg)
 
 
-if __name__ == "__main__":
-    from chainlit.cli import run_chainlit
-    run_chainlit(__file__)
+# if __name__ == "__main__":
+#     from chainlit.cli import run_chainlit
+#     run_chainlit(__file__)
