@@ -1,0 +1,6 @@
+.env
+translations
+.files
+__pycache__
+
+.chainlit/
